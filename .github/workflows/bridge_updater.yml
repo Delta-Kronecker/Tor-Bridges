@@ -3,7 +3,7 @@ name: Tor Bridges Auto-Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */12 * * *' # هر 12 ساعت اجرا می شود
+    - cron: '0 */24 * * *'
 
 permissions:
   contents: write
