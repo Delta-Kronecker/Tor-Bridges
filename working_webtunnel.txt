@@ -24,9 +24,7 @@ webtunnel [2001:db8:5bad:2592:cf4d:ca9:90a1:c73d]:443 351EBCA3042AF25ED2D9DC09F5
 webtunnel [2001:db8:5de4:df2c:316:a7d1:fee4:d128]:443 A35EA8E81BEC48C15960D497DD9024F430F6EA8F url=https://corazon.gateplanets.com/vt1F7zWiucmEjdoh ver=0.0.2
 webtunnel [2001:db8:5de4:df2c:316:a7d1:fee4:d128]:443 A35EA8E81BEC48C15960D497DD9024F430F6EA8F url=https://corazon.gateplanets.com/vt1F7zWiucmEjdoh ver=0.0.3
 webtunnel [2001:db8:5e01:4e45:956e:bdcd:b32:d2f1]:443 F8D6810CEA0F34D806A66B5BD5B53B7B1509A3DA url=https://alden.page/iUS2jhRUixvSAS5neGoL0vAn ver=0.0.1
-webtunnel [2001:db8:5ed8:4b36:c633:cd40:3040:6cb1]:443 B51FD3150E208A600D00BCA5963B0EF5C867574F url=https://rot.ronaak.eu:4433/iUFRXvAp3E3MHDiJ8453BaaM ver=0.0.2
 webtunnel [2001:db8:5f24:a703:dbde:bec8:d285:d600]:443 EFCEA1B038931F73BA155FE1E5945BCEBD62212C url=https://ttt.enerhome.site/ttt_TOR_Cjy8764jkUtopY ver=0.0.1
-webtunnel [2001:db8:6c0d:f7a0:6ad:5393:9d93:2cf0]:443 DACF356FA8C1A7837FFCECBACCC2B5007D3EF69C url=https://google.com.gus.computer/E0RQ8uOu2AsnAREsSGNKbAqj ver=0.0.1
 webtunnel [2001:db8:6d91:1d3e:230b:9d98:8e29:eefc]:443 C762244C9E351B4A63EF1EF4585A38535C3023D8 url=https://anastasia.anondns.net/atkzL9N85rspiiRudpeCh9gq ver=0.0.1
 webtunnel [2001:db8:7d43:34f7:85d8:c549:d810:3290]:443 C16189133575FA98ED8E7ECAC04643C3E5B6D4A9 url=https://proxy.txeq.xyz/0k5iQ0H15gDc9OTrBAi42Qja5jgh9Wzc ver=0.0.1
 webtunnel [2001:db8:8a96:b122:e199:d511:c55e:6bcb]:443 F5038BA595B75BD87A295CA6060214CCD4280F2F url=https://bridges.lovethosetrains.com/iwCXEhbdY7ErwP8J4MRavyAj ver=0.0.1
